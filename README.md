@@ -24,7 +24,7 @@ Dibuat untuk Tes Magang ARRE Tech.
 
 ## Teknologi
 
-- PHP 8.2+ / Laravel 11 atau 12
+- PHP 8.2+ / Laravel 12
 - MySQL
 - Tailwind CSS
 - Laravel Breeze (autentikasi)
